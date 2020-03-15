@@ -1,7 +1,9 @@
 # XYLOPHONE FLUTTER
+<p align="center">
+  <img src="Xylophone_pics.JPG">
+ </p>
+ 
 > Flutter Training Courses
-
-
 
 One of the first few projects I undertook while progressing through the UDEMY course
 [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/). 
